@@ -1,0 +1,113 @@
+/* Desktop */
+
+#field{position: relative;
+width: 700px;
+height:990px;
+
+background: #FF0111;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+  margin: auto;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+}
+/* Signature */
+
+#globe{position: absolute;
+width: 675px;
+height: 675px;
+left: 382px;
+top: 213px;
+
+background: url(Globe.png);
+border-radius: 10px;}
+
+
+/* Enter */
+
+#enter{position: absolute;
+width: 133px;
+height: 50px;
+left: 112px;
+top: 500px;
+
+background: #FFFFFF;
+border: 3px solid #111111;
+border-radius: 10px;}
+
+
+/* User Enter */
+
+#user {position: absolute;
+width: 310px;
+height: 61px;
+left: 24px;
+top: 394px;
+
+background: #FFFFFF;
+border: 3px solid #111111;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;}
+
+
+/* Reset Button */
+
+#reset{position: absolute;
+width: 310px;
+height: 61px;
+left: 826px;
+top: 857px;
+
+background: #FFFFFF;
+border: 3px solid #111111;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;}
+
+
+/* Pass Button */
+#pass{position: absolute;
+width: 310px;
+height: 61px;
+left: 286px;
+top: 857px;
+
+background: #FFFFFF;
+border: 3px solid #111111;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;}
+
+
+/* Computer Display */
+
+#comp{position: absolute;
+width: 310px;
+height: 61px;
+left: 1105px;
+top: 406px;
+
+background: #FFFFFF;
+border: 3px solid #111111;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;}
+
+
+/* Title */
+
+position: absolute;
+width: 246px;
+height: 226px;
+left: 596px;
+top: 35px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 96px;
+line-height: 112px;
+text-align: center;
+
+color: #000000;
+
+border-radius: 10px;
+
